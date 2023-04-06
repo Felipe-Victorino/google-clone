@@ -20,7 +20,7 @@ body {
         "HEADER"
         "MAIN"
         "FOOTER";
-    grid-template-rows: px 2fr 100px;
+    grid-template-rows: 70px 2fr 100px;
 
 }
 
